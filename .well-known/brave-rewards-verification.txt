@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: minecraft-nwdg.onrender.com
+Token: aac895a26a5840bc78f94524585c2b225c96ddae21b69c9a0fb8152735d25003
